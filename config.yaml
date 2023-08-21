@@ -1,5 +1,5 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
-title: Yolanda # todo: change site name.
+baseURL: https://yolandajin.com # todo: change site url.
+title: Yolanda Jin # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
@@ -10,7 +10,7 @@ params:
   copyright: All rights reserved. # todo: set your copyright type.
   author: Yolanda Jin # todo: set your full name.
   dontShowSource: false # please, do not do this :)
-  dontShowLogo: false # If you want to hide the logo, this is what you set to true
+  dontShowLogo: true # If you want to hide the logo, this is what you set to true
   portfolio:
     columns:
       desktop:
@@ -20,10 +20,10 @@ params:
   socials:
     # todo: add your social accounts.
     - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
+      url: 'mailto:yjin18@artic.edu'
       landing: true
     - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.bora.sh/eternity'
+      url: 'https://www.instagram.com/_imyolanda/'
       landing: true
   homepage: "/work" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   specialPages:
