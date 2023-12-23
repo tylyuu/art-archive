@@ -50,9 +50,12 @@ permalinks:
 
 menu:
     main:
-     - name: work
+     - name: Work
        url: /work/
        weight: 1
-     - name: dream of the red chamber
-       url: /drc/
+     - name: Dream Of The Red Chamber
+       url: /_dream_/
        weight: 1 
+     - name: If We Had Not Envolved As An Intelligent Species 
+       url: /_envolved_/
+       weight: 1
