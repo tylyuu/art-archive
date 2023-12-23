@@ -5,7 +5,7 @@ theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
-  image: /assets/image1.jpg
+  image: '/images/background.jpeg'
   logo: logo.jpeg # todo: add your custom logo to static/
   copyright: All rights reserved. # todo: set your copyright type.
   author: Yolanda Jin # todo: set your full name.
