@@ -1,3 +1,3 @@
 # art archive
-yolandajin.com
+yolandajin.com  \
 hi everyone welcome to my art archive!!! :)
