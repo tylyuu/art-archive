@@ -6,6 +6,7 @@ googleAnalytics: '' # todo: set your analytics id.
 
 params:
   logo: logo.jpeg # todo: add your custom logo to static/
+  subtitle: future artist.
   copyright: All rights reserved. # todo: set your copyright type.
   author: Yolanda Jin # todo: set your full name.
   dontShowSource: false # please, do not do this :)
@@ -26,6 +27,9 @@ params:
       landing: true
     - icon: 'fab fa-linkedin-in fa-lg'
       url: 'https://www.linkedin.com/in/yolanda-yinuo-jin-65b1642a6/'
+      landing: true
+    - icon: 'fab fa-youtube fa-lg'
+      url: 'https://www.youtube.com/@YolandaJin'
       landing: true
   homepage: "/_work_" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   specialPages:
