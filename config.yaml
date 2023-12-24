@@ -31,7 +31,7 @@ params:
     - icon: 'fab fa-youtube fa-lg'
       url: 'https://www.youtube.com/@YolandaJin'
       landing: true
-  homepage: "/_work_" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
+  homepage: "/_about_" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   specialPages:
     - _work_
     - _dream_

@@ -2,19 +2,27 @@
 title: _about_
 url: _about_
 ---
-# About Me
+# About 
 
-Welcome to my personal website! Here's a little about myself.
+#### _Yinuo Yolanda Jin_
+b.2004, Nanjing, China \
+Chicago based artist
 
-*I am a creative artist with a passion for design and photography...*
 
-## My Journey
+## Education
 
-My journey began in...
+**BFA**, School of the Art Institute of Chicago (Currently seeking)
 
-### Projects
+## Exhibitions
 
-Some of the projects I have worked on include...
+**ARTBASH**, Chicago, 2023 \
+**Solo Exhibition “EVOLUTION”**, Beijing, 2021
 
-Read my <u>[awesome article](/_work_/).</u>
+## Collections
+
+Click to check the newest collections:
+
+- **[Dream of the Red Chamber](/_dream_/)**
+- **[If We Had Not Evolved as an Intelligent Species](/_envolved_/)**
+
 
