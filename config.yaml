@@ -60,10 +60,14 @@ menu:
      - name: Work
        url: /_work_/
        weight: 1
-     - name: Dream of the Red Chamber
+     - name: Dream
        url: /_dream_/
        weight: 1 
-     - name: If We Had Not Envolved as an Intelligent Species 
+     - name: Envolved
        url: /_envolved_/
        weight: 1
+     - name: About
+       url: /_about_/
+       weight: 1
+    
 
