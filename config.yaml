@@ -1,16 +1,15 @@
 baseURL: https://yolandajin.com # todo: change site url.
-title: Yolanda Jin # todo: change site name.
+title: Yolanda (Yinuo) Jin # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
-  image: '/images/background.jpeg'
   logo: logo.jpeg # todo: add your custom logo to static/
   copyright: All rights reserved. # todo: set your copyright type.
   author: Yolanda Jin # todo: set your full name.
   dontShowSource: false # please, do not do this :)
-  dontShowLogo: true # If you want to hide the logo, this is what you set to true
+  dontShowLogo: true  # If you want to hide the logo, this is what you set to true
   portfolio:
     columns:
       desktop:
@@ -25,10 +24,11 @@ params:
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://www.instagram.com/_imyolanda/'
       landing: true
-  homepage: "/work" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
+  homepage: "/_work_" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   specialPages:
-    - work
-    - archive
+    - _work_
+    - _dream_
+    - _envolved_
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
   plausible: '' # todo: set your plausible id.
   disableWelcomePageBackground: false # disables the background image on the homepage
@@ -51,11 +51,12 @@ permalinks:
 menu:
     main:
      - name: Work
-       url: /work/
+       url: /_work_/
        weight: 1
-     - name: Dream Of The Red Chamber
+     - name: Dream of the Red Chamber
        url: /_dream_/
        weight: 1 
-     - name: If We Had Not Envolved As An Intelligent Species 
+     - name: If We Had Not Envolved as an Intelligent Species 
        url: /_envolved_/
        weight: 1
+

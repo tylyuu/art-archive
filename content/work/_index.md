@@ -1,5 +1,5 @@
 ---
-title: work
-url: work
+title: _work_
+url: _work_
 ---
 

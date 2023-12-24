@@ -5,7 +5,7 @@ images:
 title: “ Day-to-day ”
 date: 2021-07
 tags:
-- work # homepage
+- _work_ # homepage
 ---
 2021
 ### 20*24 inch Oil on canvas 

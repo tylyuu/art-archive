@@ -5,7 +5,7 @@ images:
 title: “ Chaos (Pt.1) ”
 date: 2021-07
 tags:
-- work # homepage
+- _work_ # homepage
 ---
 2021
 ### 32*40 inch Oil on Canvas

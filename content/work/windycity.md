@@ -3,10 +3,9 @@ weight: 1
 images:
 - /images/image13.jpg
 title: “ Windy City Monday Morning ”
-date: 2021-07
+date: 2023-10
 tags:
-- work # homepage
+- _work_  # homepage
 ---
-2021
-### 40*32 inch Oil on canvas
+2023
 
