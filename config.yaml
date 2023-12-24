@@ -24,6 +24,9 @@ params:
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://www.instagram.com/_imyolanda/'
       landing: true
+    - icon: 'fab fa-linkedin-in fa-lg'
+      url: 'https://www.linkedin.com/in/yolanda-yinuo-jin-65b1642a6/'
+      landing: true
   homepage: "/_work_" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   specialPages:
     - _work_
