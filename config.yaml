@@ -2,7 +2,7 @@ baseURL: https://yolandajin.com # todo: change site url.
 title: Yolanda (Yinuo) Jin # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
-googleAnalytics: '' # todo: set your analytics id.
+googleAnalytics: 'G-R2E8XTQELC' # todo: set your analytics id.
 
 params:
   logo: logo.jpeg # todo: add your custom logo to static/
