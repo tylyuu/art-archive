@@ -1,130 +1,292 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yolanda Jin</title>
-    <link>https://yolandajin.com/</link>
-    <description>Recent content on Yolanda Jin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://yolandajin.com/index.xml" rel="self" type="application/rss+xml" />
+    <title>Yinuo Yolanda Jin</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Yinuo Yolanda Jin</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>“ Chaos (Pt.1) ”</title>
-      <link>https://yolandajin.com/chaos1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yolandajin.com/chaos1/</guid>
-      <description>2021
-32*40 inch Oil on Canvas </description>
+      <title>#76</title>
+      <link>http://localhost:1313/2025/76/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/76/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>“ Chaos (Pt.2) ”</title>
-      <link>https://yolandajin.com/chaos2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yolandajin.com/chaos2/</guid>
-      <description>2021
-32*40 inch Oil on Canvas </description>
+      <title>#83</title>
+      <link>http://localhost:1313/2025/83/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/83/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>“ Day-to-day ”</title>
-      <link>https://yolandajin.com/daytoday/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yolandajin.com/daytoday/</guid>
-      <description>2021
-20*24 inch Oil on canvas </description>
+      <title>#79</title>
+      <link>http://localhost:1313/2025/79/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/79/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>“ Heart ”</title>
-      <link>https://yolandajin.com/heart/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yolandajin.com/heart/</guid>
-      <description>2021
-40*32 inch Oil on canvas </description>
+      <title>#58</title>
+      <link>http://localhost:1313/2024/58/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/58/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>“ If we had not envolved as an intelligent species ”</title>
-      <link>https://yolandajin.com/species/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yolandajin.com/species/</guid>
-      <description>2023
-43*38 inch Oil on canvas </description>
+      <title>#60</title>
+      <link>http://localhost:1313/2024/60/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/60/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>“ Nucleus ”</title>
-      <link>https://yolandajin.com/nucleus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yolandajin.com/nucleus/</guid>
-      <description>2021
-24*32 inch Oil on canvas </description>
+      <title>#69</title>
+      <link>http://localhost:1313/2024/69/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/69/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>“ Obsession ”</title>
-      <link>https://yolandajin.com/obsession/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yolandajin.com/obsession/</guid>
-      <description>2021
-24*32 inch Oil on canvas </description>
+      <title>#70</title>
+      <link>http://localhost:1313/2024/70/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/70/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>“ Rambling ”</title>
-      <link>https://yolandajin.com/rambling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yolandajin.com/rambling/</guid>
-      <description>2021
-24*32 inch Oil on canvas </description>
+      <title>Florentino and Fermina</title>
+      <link>http://localhost:1313/2024/faf/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/faf/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>“ Swallow&#39;s Nest ”</title>
-      <link>https://yolandajin.com/nest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yolandajin.com/nest/</guid>
-      <description>2021
-28*35 inch Oil on canvas </description>
+      <title>Monday Morning on Michigan/Randolph</title>
+      <link>http://localhost:1313/2024/monday/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/monday/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>“ The Exhibition ”</title>
-      <link>https://yolandajin.com/exhibition/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yolandajin.com/exhibition/</guid>
-      <description>2021
-24*32 inch Oil on canvas </description>
+      <title>Cao, Xueqin, Dream of the Red Chamber, Chapter 5</title>
+      <link>http://localhost:1313/2023/chap5/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/chap5/</guid>
+      <description>&lt;p&gt;2023&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>“ The Field ”</title>
-      <link>https://yolandajin.com/field/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yolandajin.com/field/</guid>
-      <description>2021
-32*24 inch Oil on canvas </description>
+      <title>Cao, Xueqin, The Dream of Red Chamber, Chapter 37</title>
+      <link>http://localhost:1313/2023/chap37/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/chap37/</guid>
+      <description>&lt;p&gt;2023&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>“ The War ”</title>
-      <link>https://yolandajin.com/the-war/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yolandajin.com/the-war/</guid>
-      <description>2021
-40*32 inch Oil on canvas </description>
+      <title>Cao, Xueqin, The Dream of Red Chamber, Chapter 76</title>
+      <link>http://localhost:1313/2023/chap76/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/chap76/</guid>
+      <description>&lt;p&gt;2023&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Cao, Xueqing, The Dream of Red Chamber, Chapter 41</title>
+      <link>http://localhost:1313/2023/chap41/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/chap41/</guid>
+      <description>&lt;p&gt;2023&lt;/p&gt;&#xA;&lt;h3 id=&#34;6046-inch-oil-on-canvas&#34;&gt;60*46 inch Oil on Canvas&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Red Apricot on the sun’s side</title>
+      <link>http://localhost:1313/2023/red/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/red/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sweet Osmanthus, Crab Banquet, and Chrysanthemum Poem Competition</title>
+      <link>http://localhost:1313/2023/osmanthus/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/osmanthus/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Koi, Early Morning Mist, and Cigarettes-filled Night Express to Home</title>
+      <link>http://localhost:1313/2023/koi/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/koi/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Body is a World Full of Tea</title>
+      <link>http://localhost:1313/2023/body/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/body/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Windy City Monday Morning</title>
+      <link>http://localhost:1313/_work_/windycity/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_work_/windycity/</guid>
+      <description>&lt;p&gt;2023&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chaos (Pt.1)</title>
+      <link>http://localhost:1313/_work_/chaos1/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_work_/chaos1/</guid>
+      <description>&lt;p&gt;2021&lt;/p&gt;&#xA;&lt;h3 id=&#34;3240-inch-oil-on-canvas&#34;&gt;32*40 inch Oil on Canvas&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Chaos (Pt.2)</title>
+      <link>http://localhost:1313/_work_/chaos2/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_work_/chaos2/</guid>
+      <description>&lt;p&gt;2021&lt;/p&gt;&#xA;&lt;h3 id=&#34;3240-inch-oil-on-canvas&#34;&gt;32*40 inch Oil on Canvas&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Day-to-day</title>
+      <link>http://localhost:1313/_work_/daytoday/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_work_/daytoday/</guid>
+      <description>&lt;p&gt;2021&lt;/p&gt;&#xA;&lt;h3 id=&#34;2024-inch-oil-on-canvas&#34;&gt;20*24 inch Oil on canvas&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Heart</title>
+      <link>http://localhost:1313/_work_/heart/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_work_/heart/</guid>
+      <description>&lt;p&gt;2021&lt;/p&gt;&#xA;&lt;h3 id=&#34;4032-inch-oil-on-canvas&#34;&gt;40*32 inch Oil on canvas&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Nucleus</title>
+      <link>http://localhost:1313/_work_/nucleus/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_work_/nucleus/</guid>
+      <description>&lt;p&gt;2021&lt;/p&gt;&#xA;&lt;h3 id=&#34;2432-inch-oil-on-canvas&#34;&gt;24*32 inch Oil on canvas&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Obsession</title>
+      <link>http://localhost:1313/_work_/obsession/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_work_/obsession/</guid>
+      <description>&lt;p&gt;2021&lt;/p&gt;&#xA;&lt;h3 id=&#34;2432-inch-oil-on-canvas&#34;&gt;24*32 inch Oil on canvas&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Rambling</title>
+      <link>http://localhost:1313/_work_/rambling/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_work_/rambling/</guid>
+      <description>&lt;p&gt;2021&lt;/p&gt;&#xA;&lt;h3 id=&#34;2432-inch-oil-on-canvas&#34;&gt;24*32 inch Oil on canvas&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Swallow&#39;s Nest</title>
+      <link>http://localhost:1313/_work_/nest/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_work_/nest/</guid>
+      <description>&lt;p&gt;2021&lt;/p&gt;&#xA;&lt;h3 id=&#34;2835-inch-oil-on-canvas&#34;&gt;28*35 inch Oil on canvas&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>The Exhibition</title>
+      <link>http://localhost:1313/_work_/exhibition/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_work_/exhibition/</guid>
+      <description>&lt;p&gt;2021&lt;/p&gt;&#xA;&lt;h3 id=&#34;2432-inch-oil-on-canvas&#34;&gt;24*32 inch Oil on canvas&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>The Field</title>
+      <link>http://localhost:1313/_work_/field/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_work_/field/</guid>
+      <description>&lt;p&gt;2021&lt;/p&gt;&#xA;&lt;h3 id=&#34;3224-inch-oil-on-canvas&#34;&gt;32*24 inch Oil on canvas&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>The War</title>
+      <link>http://localhost:1313/_work_/the-war/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_work_/the-war/</guid>
+      <description>&lt;p&gt;2021&lt;/p&gt;&#xA;&lt;h3 id=&#34;4032-inch-oil-on-canvas&#34;&gt;40*32 inch Oil on canvas&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/_about_/chap5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_about_/chap5/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;&#xA;&lt;h4 id=&#34;yinuoyolanda-jin&#34;&gt;&lt;em&gt;Yinuo(Yolanda) Jin&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;b.2004, Nanjing, China &lt;br&gt;&#xA;Currently based in Chicago.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I paint, draw, record, read, edit, travel, invent, imagine, think, answer, confuse, move in and out, switch between countries and cities, and find reasons for my creations.&lt;/p&gt;&#xA;&lt;p&gt;I am proud of my personality; my birthday in a pour rain near midsummer; my family that never be absent from my childhood and growth; my surname that means gold, my given name that originated from a idiom that foreshadows honesty; my hometown that carried long periods of history and literary atmosphere; my unrealistic naiveté and expectation to truth and kind; my ability to digest sorrowful emotions rapidly; my tension in the crowd and comfort of being alone; my quick adaptation to new environments and dull synesthesia; my firm decisions for favorable things and contradiction in dilemmas; my lack in logic while trying to simplify complicated propositions; my unique understanding of abstract language; my chaotic brushstrokes that are swimmy…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#77</title>
+      <link>http://localhost:1313/2025/77/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/77/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#82</title>
+      <link>http://localhost:1313/2025/82/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/82/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>He Obtained a Glass of Wine and a Kiss under the Fig Tree; Her hair Wafted out the Scent of Summer, Licorice and Blackberry</title>
+      <link>http://localhost:1313/2025/81/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/81/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Du Fu Grabs a Girl in the Shadow of Dancing Kids, with Her Hair Blonde and Dresses in the Color of Summer</title>
+      <link>http://localhost:1313/2025/dufu/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/dufu/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#61</title>
+      <link>http://localhost:1313/2024/61/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/61/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Embracing in the Fierce Wind</title>
+      <link>http://localhost:1313/2025/wind25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/wind25/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Too beautiful, and arguably, too wise for the world</title>
+      <link>http://localhost:1313/2024/wise/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/wise/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“How Shall I Set You Free?”</title>
+      <link>http://localhost:1313/2024/free/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/free/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An annoying autumn wind</title>
+      <link>http://localhost:1313/2024/autumn/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/autumn/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What are We Shaking the Laurel Trees for?</title>
+      <link>http://localhost:1313/2024/shaking/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/shaking/</guid>
+      <description>&lt;p&gt;2024&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

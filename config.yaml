@@ -1,5 +1,5 @@
 baseURL: https://yolandajin.com # todo: change site url.
-title: Yolanda (Yinuo) Jin # todo: change site name.
+title: Yinuo Yolanda Jin # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: 'G-R2E8XTQELC' # todo: set your analytics id.
@@ -57,17 +57,17 @@ permalinks:
 
 menu:
     main:
-     - name: Work
-       url: /_work_/
-       weight: 1
-     - name: Dream
-       url: /_dream_/
-       weight: 1 
-     - name: Envolved
-       url: /_envolved_/
-       weight: 1
      - name: About
        url: /_about_/
+       weight: 4
+     - name: 2023
+       url: /2023/
+       weight: 3
+     - name: 2024
+       url: /2024/
+       weight: 2
+     - name: 2025
+       url: /2025/
        weight: 1
     
 

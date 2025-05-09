@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Envolved on Yolanda (Yinuo) Jin</title>
+    <link>http://localhost:1313/_envolved_/</link>
+    <description>Recent content in Envolved on Yolanda (Yinuo) Jin</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/_envolved_/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>If we had not envolved as an intelligent species no.4</title>
+      <link>http://localhost:1313/_envolved_/no4/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_envolved_/no4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>If we had not envolved as an intelligent species no.2</title>
+      <link>http://localhost:1313/_envolved_/no2/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_envolved_/no2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>If we had not envolved as an intelligent species no.3</title>
+      <link>http://localhost:1313/_envolved_/no3/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_envolved_/no3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>If we had not envolved as an intelligent species no.1</title>
+      <link>http://localhost:1313/_envolved_/no1/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_envolved_/no1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

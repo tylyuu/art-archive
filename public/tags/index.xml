@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Yolanda Jin</title>
-    <link>https://yolandajin.com/tags/</link>
-    <description>Recent content in Tags on Yolanda Jin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://yolandajin.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>All Tags on Yinuo Yolanda Jin</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in All Tags on Yinuo Yolanda Jin</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>work</title>
-      <link>https://yolandajin.com/tags/work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yolandajin.com/tags/work/</guid>
+      <title>2025</title>
+      <link>http://localhost:1313/tags/2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2025/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>2024</title>
+      <link>http://localhost:1313/tags/2024/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2023</title>
+      <link>http://localhost:1313/tags/2023/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>_Work_</title>
+      <link>http://localhost:1313/tags/_work_/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/_work_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>_About_</title>
+      <link>http://localhost:1313/tags/_about_/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/_about_/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
         <ul>
             {{ with .Date }}<li>Date: {{ .Format "January 2, 2006" }}</li>{{ end }}
             {{ with .Tags.Copyright }}<li>Copyright: {{ . }}</li>{{ end }}
-            {{ with .Tags.ApertureValue }}<li>Aperture: {{ lang.NumFmt 2 . }}</li>{{ end }}
+            {{ with .Tags.ApertureValue }}<li>Aperture: {{ printf "%.2f" . }}</li>{{ end }}
             {{ with .Tags.BrightnessValue }}<li>Brightness: {{ . }}</li>{{ end }}
             {{ with .Tags.ExposureTime }}<li>Exposure Time: {{ . }}</li>{{ end }}
             {{ with .Tags.FNumber }}<li>F Number: {{ . }}</li>{{ end }}
