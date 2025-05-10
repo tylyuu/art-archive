@@ -6,7 +6,7 @@ googleAnalytics: 'G-R2E8XTQELC' # todo: set your analytics id.
 
 params:
   logo: logo.jpeg # todo: add your custom logo to static/
-  subtitle: future artist.
+  subtitle: Artist.
   copyright: All rights reserved. # todo: set your copyright type.
   author: Yolanda Jin # todo: set your full name.
   dontShowSource: true # please, do not do this :)
