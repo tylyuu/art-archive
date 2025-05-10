@@ -2,7 +2,7 @@
 weight: 1
 images:
 - /images/chap41.jpg
-title: "Cao, Xueqing, The Dream of Red Chamber, Chapter 41"
+title: "Snoring, Yihong Garden, and Grandma on the Bed"
 date: 2023-11-01
 tags:
 - 2023

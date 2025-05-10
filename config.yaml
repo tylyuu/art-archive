@@ -9,7 +9,7 @@ params:
   subtitle: future artist.
   copyright: All rights reserved. # todo: set your copyright type.
   author: Yolanda Jin # todo: set your full name.
-  dontShowSource: false # please, do not do this :)
+  dontShowSource: true # please, do not do this :)
   dontShowLogo: true  # If you want to hide the logo, this is what you set to true
   portfolio:
     columns:
